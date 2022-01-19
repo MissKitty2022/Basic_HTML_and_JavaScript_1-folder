@@ -1,0 +1,6 @@
+{
+	var String = "Celebrate You and Be Kind to Yourself!";
+	var result = String.fontcolor("green");
+	document.getElementById("Yourself").innerHTML =
+	result;
+    }
